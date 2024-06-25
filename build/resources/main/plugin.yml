@@ -1,0 +1,7 @@
+name: testPlugin
+version: '1.0-SNAPSHOT'
+main: org.example.dev.testplugin.TestPlugin
+commands:
+  picareta:
+    description: "Your picareta command description"
+    aliases: ["pica"]  #
